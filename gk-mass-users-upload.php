@@ -9,9 +9,9 @@
   License: GPLv2
  */
 
-add_action( 'admin_menu', 'gk_wpr_prod_admin_menu' );
+add_action( 'admin_menu', 'gk_mass_user_prod_admin_menu' );
 
-function gk_wpr_prod_admin_menu() {
+function gk_mass_user_prod_admin_menu() {
 	add_users_page( 'Mass Users Upload', 'Mass Users Upload', 'manage_options', 'mass-users-upload', 'gk_mass_users_upload');
 }
 
