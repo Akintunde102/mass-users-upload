@@ -1,6 +1,6 @@
 username,email,first_name,last_name,title,business_number,mobile_number,job_title,company,department,access_permissions,roles
-mcfarhat+generalinf1@gmail.com,mcfarhat+generalinf1@gmail.com,Mo1,Farhat,Mr,123456789,987654321,Manager,Greateck,sales,investment_option_spain-wealth_option_italy,ipfinland-ipportugal
-mcfarhat+generalinf2@gmail.com,mcfarhat+generalinf2@gmail.com,Mo2,Farhat,Mr,123456789,987654321,Manager,Greateck,dev,wealth_option_spain,wpuk
-mcfarhat+generalinf3@gmail.com,mcfarhat+generalinf3@gmail.com,Mo3,Farhat,Mr,123456789,987654321,Manager,Greateck,QA,investment_option_finland,wpitaly
-mcfarhat+generalinf4@gmail.com,mcfarhat+generalinf4@gmail.com,Mo4,Farhat,Mr,123456789,987654321,Manager,Greateck,IM,,ipspain-wpuk
-mcfarhat+generalinf5@gmail.com,mcfarhat+generalinf5@gmail.com,Mo5,Farhat,Mr,123456789,987654321,Manager,Greateck,CS,investment_option_czechrepublic-wealth_option_italy,
+user1@gmail.com,user1@gmail.com,fname1,lname1,Mr,123456789,987654321,Manager,Greateck,sales,AP1,A
+user2@gmail.com,user2@gmail.com,fname2,lname2,Miss,123456789,987654321,Employee,Greateck,dev,AP2,
+user3@gmail.com,user3@gmail.com,fname3,lname3,Mrs,123456789,987654321,Manager,Greateck,QA,AP1,A
+user4@gmail.com,user4@gmail.com,fname4,lname4,Mr,123456789,987654321,Employee,Greateck,IM,,B
+user5@gmail.com,user5@gmail.com,fname5,lname5,Mr,123456789,987654321,Manager,Greateck,CS,AP1,
