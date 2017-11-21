@@ -383,14 +383,6 @@ function gk_import_users( $file, $form_data, $attach_id = 0 ){?>
 					if( $created ){
 						//increase count of created users
 						$imp_user_count++;
-						//send a notification email/welcome email to the user
-						if (class_exists('Theme_My_Login_User_Moderation_Admin')){
-						// if (class_exists('Theme_My_Login_User_Moderation_Admin')){
-							// echo "sending email";
-							// Theme_My_Login_User_Moderation::new_user_activation_notification($user_id);
-							Theme_My_Login_User_Moderation_Admin::approve_user($user_id);
-							// Theme_My_Login_User_Moderation_Admin::user_notify($user_id);
-						}
 					}
 						
 				endif;
